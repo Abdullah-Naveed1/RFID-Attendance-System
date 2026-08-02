@@ -21,7 +21,7 @@ An RFID-based attendance system built with the Arduino Uno utilizing object-orie
 *   Breadboard and jumper wires
 
 ## 🔌 Circuit & Wiring
-*A circuit diagram can be found in the `docs/` folder.*
+![RFID Circuit Diagram](circuit-diagram.png)
 
 ### MFRC522 RFID Module (SPI)
 | RFID Pin | Arduino Uno Pin | Note |
